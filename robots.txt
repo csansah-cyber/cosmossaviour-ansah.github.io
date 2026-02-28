@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://csansah-cyber.github.io/cosmossaviour-ansah/sitemap.xml
+Sitemap: https://csansah-cyber.github.io/sitemap.xml
